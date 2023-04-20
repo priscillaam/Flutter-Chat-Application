@@ -3,6 +3,8 @@
 ## Messaging Application
 This is a messaging application that allows users to sign in and send text messages, images, and stickers to each other. The application was developed as a college project for a mobile development course.
 
+https://user-images.githubusercontent.com/60373527/233496332-4c81260d-d82c-40c2-a1ae-dcca48215d1f.PNG
+
 ## Technologies
 This application was built using the Flutter framework and programmed using the Dart programming language. The backend was implemented using Firebase, which was integrated with Cloud Firestore for data storage, Firebase Storage for storing images, and Firebase Authentication for user authentication.
 
